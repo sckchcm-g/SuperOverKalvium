@@ -1,0 +1,85 @@
+body{
+    background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png");
+    background-size: cover;
+}
+.circle1{
+    height: 55px;
+    width: 55px;
+    background-color: white;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+    border: 0px solid black;
+    border-radius: 20px;
+}
+
+h1{
+    color: white;
+}
+.India{
+    background-color: #005fa2;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.pakistan{
+    background-color: #1fa83d;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+
+.a{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button1{
+    margin: 70px 20px 70px 750px ;
+    height: 70px;
+    width: 70px;
+}
+
+.button2{
+    margin: 70px 20px 70px 60px ;
+    height: 70px;
+    width: 70px;
+}
+
+.spov{
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 44%;
+}
+
+.button1{
+    margin-left: 43%;
+}
+
+span{
+    color: white;
+}
+
+.heading1{
+  font-size: 50px;
+}
+
+.heading2{
+    font-size: 50px;
+}
+
+.span1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
